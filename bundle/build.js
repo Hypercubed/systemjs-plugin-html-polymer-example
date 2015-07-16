@@ -12337,7 +12337,7 @@ System.register("src/d3-bar-chart", ["github:mbostock/d3@3.5.6"], function($__ex
   };
 });
 
-System.register("src/bar-chart-element", ["jspm_packages/github/Polymer/polymer@1.0.6/polymer.html!github:Hypercubed/systemjs-plugin-html@master", "src/bar-chart-element.html!github:Hypercubed/systemjs-plugin-html@master", "src/d3-bar-chart"], function($__export) {
+System.register("src/bar-chart-element", ["jspm_packages/github/Polymer/polymer@1.0.6/polymer.html!github:Hypercubed/systemjs-plugin-html@vulcanize", "src/bar-chart-element.html!github:Hypercubed/systemjs-plugin-html@vulcanize", "src/d3-bar-chart"], function($__export) {
   "use strict";
   var __moduleName = "src/bar-chart-element";
   var Bars;
@@ -12387,8 +12387,8 @@ System.register("src/bar-chart-element", ["jspm_packages/github/Polymer/polymer@
   };
 });
 
-System.register('jspm_packages/github/Polymer/polymer@1.0.6/polymer.html!github:Hypercubed/systemjs-plugin-html@master', [], false, function() {});
-System.register('src/bar-chart-element.html!github:Hypercubed/systemjs-plugin-html@master', [], false, function() {});
+System.register('jspm_packages/github/Polymer/polymer@1.0.6/polymer.html!github:Hypercubed/systemjs-plugin-html@vulcanize', [], false, function() {});
+System.register('src/bar-chart-element.html!github:Hypercubed/systemjs-plugin-html@vulcanize', [], false, function() {});
 (function() {
   var loader = System;
   if (typeof indexOf == 'undefined')
