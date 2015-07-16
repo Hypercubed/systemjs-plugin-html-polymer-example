@@ -1,0 +1,18 @@
+::content .axis path,
+::content .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+::content .bar {
+	fill: steelblue;
+}
+
+::content .x.axis path {
+	display: none;
+}
+
+div {  /* testing shadow dom */
+	background-color: #eee;
+}
